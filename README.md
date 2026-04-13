@@ -188,4 +188,3 @@ For production deployment, consider:
 
 ---
 
-Built with ❤️ and ♟️
